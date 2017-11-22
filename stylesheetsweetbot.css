@@ -61,8 +61,8 @@ body {
 
 section {
     display: block;
-    padding-top: 90px;
-    height: 100vh;
+    padding-top: 30px;
+    height: 110vh;
     width: 100vw;
     overflow: hidden;
 }
@@ -339,3 +339,5 @@ section:nth-child(5) {
     padding-top: 8px;
     padding-right: 5px;
 }
+
+//*
